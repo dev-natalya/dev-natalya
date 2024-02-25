@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Natalya Kim
 
-I'm a full stack developer at @anime-club
+I'm a full stack developer at [anime.club](https://anime.club/)
 
 ## Certifications 🎓
 
