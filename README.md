@@ -1,6 +1,23 @@
 ### Hello 👋 I'm Natalya Kim
 
-I'm a full stack developer at [anime.club](https://anime.club/)
+I'm a full stack developer with 8 years of experience, working with AWS services like Bedrock, Polly, Textract, DynamoDB, and S3. I focus on LLM integration into projects.
+
+### :hammer_and_wrench: Languages and Tools :
+Frontend
+<div> <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /> 
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />
+<img src="https://skillicons.dev/icons?i=mui" alt="Material UI" />
+</div>
+  
+Backend
+<div> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> 
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /> 
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> 
+  <img src="https://skillicons.dev/icons?i=bun" alt="Bun" />
+</div>
 
 ## Certifications 🎓
 
