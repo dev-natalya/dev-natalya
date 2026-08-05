@@ -25,3 +25,4 @@ Backend
 <a href="https://www.credly.com/badges/75cdf707-cea9-4848-aef5-f118515f8ada/public_url"><img src="images/aws-accredited-cloud-economics.png" width=120 alt="AWS Partner: Cloud Economics Accreditation" /></a>
 <a href="https://www.credly.com/badges/feac37da-536d-4ff1-bfc9-00206b9411eb/public_url"><img src="images/aws-accredited-technical.png" width=120 alt="AWS Partner: Accreditation (Technical)" /></a>
 <a href="https://www.credly.com/badges/6cc22786-d31b-4226-8865-16295432ceb0/public_url"><img src="images/aws-cloud-practitioner.png" width=120 alt="AWS Certified Cloud Practitioner" /></a>
+<a href="https://www.credly.com/badges/d1099c05-2943-4478-84e9-57c2d982dcc3/public_url"><img src="images/aws-ai-practitioner.png" width=120 alt="AWS Certified AI Practitioner" /></a>
